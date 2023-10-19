@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=dajuan323&style=flat-square&color=blue" alt=""/>
