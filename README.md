@@ -4,8 +4,8 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/da-juan-martin-8b54779/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://x.com/hypergceo?s=11" alt="Twitter Badge"/>
+  <a href="[your-twitter-URL](https://x.com/hypergceo?s=11)">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=dajuan323&style=flat-square&color=blue" alt=""/>
