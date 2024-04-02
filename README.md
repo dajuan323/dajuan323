@@ -29,6 +29,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ---
 
 <!--START_SECTION:waka-->
+
+```txt
+C#       12 hrs 59 mins  ███████████████████████▒░   92.68 %
+Binary   57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+XML      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ### :hammer_and_wrench: Languages and Tools :
