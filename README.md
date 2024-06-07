@@ -29,13 +29,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%2025%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 74.2 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2024
+> 🏆 70 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,20 +49,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ```text
 🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-🌆 Daytime                1751 commits        █████████░░░░░░░░░░░░░░░░   37.29 % 
-🌃 Evening                1711 commits        █████████░░░░░░░░░░░░░░░░   36.44 % 
-🌙 Night                  668 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+🌆 Daytime                1751 commits        █████████░░░░░░░░░░░░░░░░   37.28 % 
+🌃 Evening                1711 commits        █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌙 Night                  669 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1179 commits        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+Monday                   1179 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
 Tuesday                  49 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 Wednesday                489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 Thursday                 273 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Friday                   1462 commits        ████████░░░░░░░░░░░░░░░░░   31.13 % 
+Friday                   1463 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
 Saturday                 822 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Sunday                   422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Sunday                   422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 ```
 
 
@@ -103,7 +105,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dajuan323/dajuan323/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2024 06:23:59 UTC
+ Last Updated on 07/06/2024 06:27:56 UTC
 <!--END_SECTION:waka-->
 
 ### :hammer_and_wrench: Languages and Tools :
