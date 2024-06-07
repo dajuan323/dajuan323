@@ -18,7 +18,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET_API }} # required
           GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
-          SHOW_OS: "False"
-          LOCALE: "True"
-          SHOW_PROJECTS: "True"
+          INPUT_LOCALE: "True"
           # you can populate email-id with secretes instead
