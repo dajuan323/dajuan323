@@ -17,6 +17,9 @@ jobs:
       - uses: anmol098/waka-readme-stats@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET_API }} # required
-        
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
           AUTHOR_NAME: Dajuan # optional
+          LOCALE: "True"
+          SHOW_PROJECTS: "True"
           # you can populate email-id with secretes instead
