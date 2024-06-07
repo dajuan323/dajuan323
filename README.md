@@ -22,7 +22,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
+- :family_man_boy: Girl-Dad 
+
 - :zap: In my free time, I solve problems on LeetCode and practice CSS & HTML on games like CSS Zombies.
+
+- :basketball: Go Hawks! 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/da-juan-martin-8b54779/)
 
