@@ -23,6 +23,8 @@ jobs:
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
+          BIG_BIRD: "False"
+          SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: "2"
           DEBUG_LOGGING: "False"
