@@ -19,7 +19,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET_API }} # required
           GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
           SHOW_PROJECTS: "False"
-          SHOW_PROJECT: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
